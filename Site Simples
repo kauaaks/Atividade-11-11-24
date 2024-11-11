@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Possibilidades com JavaScript</title>
+    <style>
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+        body{
+            background-color: rgb(24, 23, 23);
+        }
+        #title{
+            margin: 0%;
+            background-color: blanchedalmond ;
+        }
+        #titulo{
+            text-align: center;
+        }
+        .perguntaResposta{
+            color: aliceblue;
+            margin: 15px;
+        }
+        .img{
+            height: 200px;
+            margin-left: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div id="title">
+        <h1 id="titulo">Possibilidades com uso de JavaScript</h1>
+    </div>
+    <div >
+        <p class="perguntaResposta">-Java Script e Java são a mesma coisa?<br>
+            Não, Java e JavaScript são linguagens diferentes. Java é usada principalmente para aplicações em servidores e dispositivos móveis, enquanto JavaScript é usada para tornar páginas web interativas.</p>
+        <p class="perguntaResposta">-Quando surigu o Java Script?<br>
+            O JavaScript surgiu em 1995.</p>
+        <p class="perguntaResposta">-Quem foi o responsável pela criação do Java Script?<br>
+            O JavaScript foi criado por Brendan Eich.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ52J-1hUKu1O135xUdFVIuDjWsUZyNvadpqQ&s" class="img">
+        <p class="perguntaResposta">-Qual o caminho trilhado pelo reponsável pela criação do Java Script, trata-se de alguma empresa ainda no mercado?<br>
+            Brendan Eich trabalhou na Netscape quando criou o JavaScript. Depois, ele foi um dos fundadores da Mozilla Foundation, que desenvolve o navegador Firefox.</p>
+        <img src="https://www.compararsoftware.com.br/media/1658"class="img">
+        </div>
+</body>
+</html>
